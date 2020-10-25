@@ -18,7 +18,7 @@ function sendGuess(user) {
 let config = {
     // This should be a unique ID for your app.
     // For development purposes we can set it to anything.
-    appId: '512032b5-d4c0-4f55-bddc-0f79f9059231',
+    appId: '1602742688422361158',
     events: {
         // The 'connected' even get fired every time a new user connects to the channel
         // In this demo, we don't need to use this event.

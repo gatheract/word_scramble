@@ -35,6 +35,7 @@
   bottom: 0;
   padding: 20px;
   width: 100%;
+  box-sizing: border-box;
   min-height: 93px;
   background-color: #ebf4ff;
 }
